@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+h1 {
+  margin: 0 !important;
+}
+
+h2 {
+  margin: 0 !important;
+}
+
+h3 {
+  margin: 0 !important;
+}
+
+h4 {
+  margin: 0 !important;
+}
+
+p {
+  margin: 0 !important;
+}
+
+input.form-control {
+  min-width: 300px;
+}
+
+label.form-label {
+  margin: 0 !important;
+  font-weight: 600;
+}
+
+button.btn-primary {
+  background-color: #4280be !important;
+  border: none;
+}
+
+button.btn-dark {
+  background-color: #6f7d8a !important;
+  border: none;
+}
+
+/* styles.css */
+.tooltip-inner {
+  background-color: #ff0000; /* Set the background color */
+  color: #ffffff; /* Set the text color */
+  border-radius: 8px; /* Set border-radius for rounded corners */
+  padding: 8px; /* Set padding */
+  font-size: 14px; /* Set font size */
+}
+
+.tooltip-arrow {
+  border-top-color: #ff0000; /* Set arrow color */
+}

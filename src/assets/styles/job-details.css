@@ -1,0 +1,24 @@
+.how-to-apply {
+  display: flex;
+  flex-direction: column;
+  padding: 1.5rem;
+  background-color: #ffffe5;
+  border: dotted 2px #626262;
+}
+
+.how-to-apply-title {
+  font-size: larger;
+  font-weight: 600;
+}
+
+.company-details {
+  display: flex;
+  flex-direction: column;
+  padding: 1.5rem;
+  border: solid 2px #626262;
+}
+
+.company-details-name {
+  font-size: larger;
+  font-weight: 600;
+}

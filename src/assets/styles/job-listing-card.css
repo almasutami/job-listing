@@ -1,0 +1,30 @@
+.full_time {
+  font-weight: 600;
+  color: rgb(28, 187, 28);
+}
+
+.part_time {
+  font-weight: 600;
+  color: rgb(216, 54, 54);
+}
+
+.created-at {
+  font-size: 12px;
+  color: rgb(128, 128, 128);
+}
+
+.job-title {
+  font-size: 18px;
+  font-weight: 600;
+  color: #4280be;
+}
+
+.job-title:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.location {
+  font-size: 16px;
+  font-weight: 600;
+}
